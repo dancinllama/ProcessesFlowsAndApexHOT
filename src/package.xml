@@ -16,5 +16,9 @@
         <members>*</members>
         <name>RemoteSiteSetting</name>
     </types>
+    <types>
+        <members>OrderItem.Quantity_Greater_Than_10</members>
+        <name>ValidationRule</name>
+    </types>
     <version>34.0</version>
 </Package>
